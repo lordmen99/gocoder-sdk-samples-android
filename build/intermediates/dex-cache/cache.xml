@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/fabiojapa/AndroidStudioProjects/gocoder-sdk-samples-android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="9340c4f95a4e3916c9ad70296e24576743743712">
+        <dex dex="/home/fabiojapa/AndroidStudioProjects/gocoder-sdk-samples-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.1.0_3396fd07174395e84200c982fc1548b7ccf1b6ee/classes.dex" />
+    </item>
+    <item
+        jar="/home/fabiojapa/AndroidStudioProjects/gocoder-sdk-samples-android/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="8906ff545af4cf515c6fcc5d76706c5c3c5e767d">
+        <dex dex="/home/fabiojapa/AndroidStudioProjects/gocoder-sdk-samples-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_9f8b46675176aaab1fc66c2b359d0fec3544ed60/classes.dex" />
+    </item>
+    <item
+        jar="/home/fabiojapa/AndroidStudioProjects/gocoder-sdk-samples-android/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.1.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="ba8e8860f7e033c3a503b682337a4bafdf56e6ee">
+        <dex dex="/home/fabiojapa/AndroidStudioProjects/gocoder-sdk-samples-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.1.0_e17721ce04cb5e45ad62e714622d1e8aa63097fc/classes.dex" />
+    </item>
+    <item
+        jar="/home/fabiojapa/AndroidStudioProjects/gocoder-sdk-samples-android/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="cc9a76bffdecc8096f07c4d926afb988fc0bfb3a">
+        <dex dex="/home/fabiojapa/AndroidStudioProjects/gocoder-sdk-samples-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_2297b78064413d0d278f2fdd1b84eee93a6f068e/classes.dex" />
+    </item>
+    <item
+        jar="/home/fabiojapa/AndroidStudioProjects/gocoder-sdk-samples-android/app/build/intermediates/exploded-aar/com.wowza.gocoder.sdk.android/com.wowza.gocoder.sdk/1.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="18f4cb9ab1819551b0630315aae696428ff970ee">
+        <dex dex="/home/fabiojapa/AndroidStudioProjects/gocoder-sdk-samples-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.wowza.gocoder.sdk.android-com.wowza.gocoder.sdk-1.0_efe411ba66cab836bc6b97c1dfde112e5d0f9f2b/classes.dex" />
+    </item>
+    <item
+        jar="/home/fabiojapa/AndroidStudioProjects/gocoder-sdk-samples-android/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="e096a5d8343cc9c5a9f6eded36bd0f4c82f8c83e">
+        <dex dex="/home/fabiojapa/AndroidStudioProjects/gocoder-sdk-samples-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.1.0_6ee5517d03ac93c079dc988ecc56cfe0ff20c07f/classes.dex" />
+    </item>
+    <item
+        jar="/home/fabiojapa/AndroidStudioProjects/gocoder-sdk-samples-android/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.0/jars/libs/internal_impl-24.1.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="8c7087216946c546f85a1242a2794c0f271e092c">
+        <dex dex="/home/fabiojapa/AndroidStudioProjects/gocoder-sdk-samples-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.1.0_18e026d2d702cecb9d1b748bb4b929174bacec21/classes.dex" />
+    </item>
+    <item
+        jar="/home/fabiojapa/AndroidStudioProjects/gocoder-sdk-samples-android/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.1.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="8c854b30eca6c442fe842e66cd3b58c5dd08996f">
+        <dex dex="/home/fabiojapa/AndroidStudioProjects/gocoder-sdk-samples-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.1.0_5dcd81770c296e04281510750f4e0075ea53d78a/classes.dex" />
+    </item>
+    <item
+        jar="/home/fabiojapa/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/24.1.0/8a23146e1a8c7cb4758e3d3f62449213f1e51f67/support-annotations-24.1.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="8a23146e1a8c7cb4758e3d3f62449213f1e51f67">
+        <dex dex="/home/fabiojapa/AndroidStudioProjects/gocoder-sdk-samples-android/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.1.0_392c8c67a65ac4fd2bec63be8f835f55f316144c/classes.dex" />
+    </item>
+
+</items>
